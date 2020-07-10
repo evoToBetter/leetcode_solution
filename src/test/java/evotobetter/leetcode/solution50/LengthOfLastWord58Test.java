@@ -4,7 +4,7 @@ import org.testng.Assert;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
-public class TestLengthOfLastWord58 {
+public class LengthOfLastWord58Test {
     private LengthOfLastWord58 func;
 
     @BeforeClass

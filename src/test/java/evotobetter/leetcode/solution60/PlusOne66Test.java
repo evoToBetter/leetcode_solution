@@ -6,7 +6,7 @@ import org.testng.annotations.Test;
 
 import java.util.Arrays;
 
-public class TestPlusOne66 {
+public class PlusOne66Test {
     private PlusOne66 func;
 
     @BeforeClass

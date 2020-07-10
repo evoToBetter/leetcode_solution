@@ -7,7 +7,7 @@ import org.testng.annotations.Test;
 import java.util.ArrayList;
 import java.util.List;
 
-public class TestGrayCode {
+public class GrayCodeTest {
     private GrayCode89 func;
 
     @BeforeClass
