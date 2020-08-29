@@ -1,4 +1,4 @@
-package evotobetter.leetcode.test.solution50;
+package evotobetter.leetcode.solution50;
 
 import java.util.List;
 

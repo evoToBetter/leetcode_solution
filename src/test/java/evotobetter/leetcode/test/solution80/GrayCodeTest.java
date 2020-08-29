@@ -1,5 +1,7 @@
 package evotobetter.leetcode.test.solution80;
 
+import evotobetter.leetcode.solution80.GrayCode89;
+import evotobetter.leetcode.solution80.GrayCode89_3;
 import org.testng.Assert;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;

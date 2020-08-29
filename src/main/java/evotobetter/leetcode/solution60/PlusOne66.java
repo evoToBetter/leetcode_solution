@@ -1,4 +1,4 @@
-package evotobetter.leetcode.test.solution60;
+package evotobetter.leetcode.solution60;
 
 public interface PlusOne66 {
     int[] plusOne(int[] digits);

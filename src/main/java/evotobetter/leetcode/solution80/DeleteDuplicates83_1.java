@@ -1,6 +1,7 @@
-package evotobetter.leetcode.test.solution80;
+package evotobetter.leetcode.solution80;
 
-import evotobetter.leetcode.test.util.ListNode;
+
+import evotobetter.leetcode.util.ListNode;
 
 public class DeleteDuplicates83_1 implements DeleteDuplicates83 {
     @Override

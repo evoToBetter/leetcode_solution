@@ -1,4 +1,4 @@
-package evotobetter.leetcode.test.solution60;
+package evotobetter.leetcode.solution60;
 
 public class PlusOne66_1 implements PlusOne66 {
     @Override

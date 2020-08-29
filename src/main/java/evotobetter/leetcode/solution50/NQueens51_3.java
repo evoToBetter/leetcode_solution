@@ -1,9 +1,9 @@
 package evotobetter.leetcode.test.solution50;
 
+import evotobetter.leetcode.solution50.NQueens51;
+
 import java.util.ArrayList;
-import java.util.HashSet;
 import java.util.List;
-import java.util.Set;
 
 /*
 *  recursive find possible solution,

@@ -1,5 +1,7 @@
 package evotobetter.leetcode.test.solution210;
 
+import evotobetter.leetcode.solution210.CourseScheduleII210;
+import evotobetter.leetcode.solution210.CourseScheduleII210_1;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 

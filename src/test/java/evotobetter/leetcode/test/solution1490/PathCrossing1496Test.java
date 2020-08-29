@@ -1,5 +1,7 @@
 package evotobetter.leetcode.test.solution1490;
 
+import evotobetter.leetcode.solution1490.PathCrossing1496;
+import evotobetter.leetcode.solution1490.PathCrossing1496_1;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 

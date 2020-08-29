@@ -1,4 +1,4 @@
-package evotobetter.leetcode.test.solution60;
+package evotobetter.leetcode.solution60;
 
 public interface SqrtX69 {
     //https://leetcode.com/problems/sqrtx/submissions/

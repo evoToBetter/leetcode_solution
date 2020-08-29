@@ -1,4 +1,4 @@
-package evotobetter.leetcode.test.solution40;
+package evotobetter.leetcode.solution40;
 
 public class JumpGameII45_1 implements JumpGameII45 {
     //timeout, only need the farest position

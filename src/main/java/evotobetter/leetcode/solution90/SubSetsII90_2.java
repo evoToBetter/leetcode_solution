@@ -1,4 +1,4 @@
-package evotobetter.leetcode.test.solution90;
+package evotobetter.leetcode.solution90;
 
 import java.util.ArrayList;
 import java.util.Arrays;

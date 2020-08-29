@@ -1,5 +1,7 @@
 package evotobetter.leetcode.test.solution60;
 
+import evotobetter.leetcode.solution60.SqrtX69;
+import evotobetter.leetcode.solution60.SqrtX69_1;
 import org.testng.Assert;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;

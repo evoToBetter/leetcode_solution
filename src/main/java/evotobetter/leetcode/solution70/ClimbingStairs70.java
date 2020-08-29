@@ -1,4 +1,4 @@
-package evotobetter.leetcode.test.solution70;
+package evotobetter.leetcode.solution70;
 
 public interface ClimbingStairs70 {
     //https://leetcode.com/problems/climbing-stairs/

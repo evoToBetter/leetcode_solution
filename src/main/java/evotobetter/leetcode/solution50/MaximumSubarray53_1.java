@@ -1,4 +1,4 @@
-package evotobetter.leetcode.test.solution50;
+package evotobetter.leetcode.solution50;
 
 public class MaximumSubarray53_1 implements MaximumSubarray53{
     /*

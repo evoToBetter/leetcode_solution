@@ -1,6 +1,8 @@
 package evotobetter.leetcode.test.solution80;
 
-import evotobetter.leetcode.test.util.ListNode;
+import evotobetter.leetcode.solution80.DeleteDuplicates83;
+import evotobetter.leetcode.solution80.DeleteDuplicates83_1;
+import evotobetter.leetcode.util.ListNode;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 

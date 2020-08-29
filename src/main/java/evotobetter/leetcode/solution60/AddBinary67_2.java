@@ -1,4 +1,4 @@
-package evotobetter.leetcode.test.solution60;
+package evotobetter.leetcode.solution60;
 
 public class AddBinary67_2 implements AddBinary67 {
     @Override

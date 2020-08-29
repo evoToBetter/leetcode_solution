@@ -1,4 +1,4 @@
-package evotobetter.leetcode.test.util;
+package evotobetter.leetcode.util;
 
 public class ListNode {
     public int val;

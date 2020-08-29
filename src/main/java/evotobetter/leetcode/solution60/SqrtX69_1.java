@@ -1,4 +1,4 @@
-package evotobetter.leetcode.test.solution60;
+package evotobetter.leetcode.solution60;
 
 public class SqrtX69_1 implements SqrtX69 {
     @Override

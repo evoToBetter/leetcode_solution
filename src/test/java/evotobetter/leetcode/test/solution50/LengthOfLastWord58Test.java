@@ -1,5 +1,7 @@
 package evotobetter.leetcode.test.solution50;
 
+import evotobetter.leetcode.solution50.LengthOfLastWord58;
+import evotobetter.leetcode.solution50.LengthOfLastWord58_2;
 import org.testng.Assert;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;

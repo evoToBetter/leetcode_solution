@@ -1,6 +1,6 @@
-package evotobetter.leetcode.test.solution80;
+package evotobetter.leetcode.solution80;
 
-import evotobetter.leetcode.test.util.ListNode;
+import evotobetter.leetcode.util.ListNode;
 
 public interface DeleteDuplicates83 {
     //https://leetcode.com/problems/remove-duplicates-from-sorted-list/

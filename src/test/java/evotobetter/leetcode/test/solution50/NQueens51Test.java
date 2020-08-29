@@ -1,5 +1,7 @@
 package evotobetter.leetcode.test.solution50;
 
+import evotobetter.leetcode.solution50.NQueens51;
+import evotobetter.leetcode.solution50.NQueens51_1;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 

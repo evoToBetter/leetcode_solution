@@ -1,4 +1,4 @@
-package evotobetter.leetcode.test.solution70;
+package evotobetter.leetcode.solution70;
 
 public class ClimbingStairs70_1 implements ClimbingStairs70 {
     @Override

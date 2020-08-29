@@ -1,4 +1,4 @@
-package evotobetter.leetcode.test.solution200;
+package evotobetter.leetcode.solution200;
 
 import java.util.ArrayList;
 import java.util.HashSet;

@@ -1,4 +1,4 @@
-package evotobetter.leetcode.test.solution50;
+package evotobetter.leetcode.solution50;
 
 public class LengthOfLastWord58_2 implements LengthOfLastWord58 {
     @Override

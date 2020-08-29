@@ -1,5 +1,7 @@
 package evotobetter.leetcode.test.solution40;
 
+import evotobetter.leetcode.solution40.JumpGameII45;
+import evotobetter.leetcode.solution40.JumpGameII45_1;
 import org.testng.Assert;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
